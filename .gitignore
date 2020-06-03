@@ -1,2 +1,8 @@
 /backend/control_center/db.sqlite3
 /.idea
+
+/heroku_live_server_code/control_center_for_robot/__pycache__/*.pyc
+/heroku_live_server_code/control_center/__pycache__/*.pyc
+/heroku_live_server_code/control_center/migrations/__pycache__
+/heroku_live_server_code/.idea
+/heroku_live_server_code/*.sqlite3
